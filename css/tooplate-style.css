@@ -334,3 +334,9 @@ footer a:hover {
 		padding: 10px 15px;
 	}
 }
+
+IMG  {
+	  width:400;
+	  border:2px solid yellow;
+
+}
